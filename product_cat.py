@@ -35,10 +35,10 @@ for i in range(1, num_products + 1):
         price = fake.pyfloat(right_digits=2, positive=True, min_value=1, max_value=1000)
 
     product_data.append({
-        'Product ID': i,
-        'Product Name': product_name,
-        'Category': category,
-        'Price': price
+        'product_id': i,
+        'product_name': product_name,
+        'category': category,
+        'price': price
     })
 
 df_product = pd.DataFrame(product_data)

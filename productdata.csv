@@ -1,21 +1,21 @@
-Product ID,Product Name,Category,Price
-1,Brick Tile and Sons,Building Materials,91.3
-2,Pipe Connector LLC,Plumbing,149.84
-3,Grinder Drill and Sons,Power Tools,132.9
-4,Insulation Tile Ltd,Building Materials,208.84
-5,Valve Fitting and Sons,Plumbing,11.87
-6,Tile Cement Inc,Building Materials,211.93
-7,Brick Cement Group,Building Materials,217.76
-8,Insulation Brick and Sons,Building Materials,238.45
-9,Cement Tile LLC,Building Materials,32.52
-10,Cement Brick and Sons,Building Materials,167.23
-11,Sander Grinder Group,Power Tools,444.8
-12,Hammer Wrench Group,Hand Tools,91.81
-13,Wire Fixture Group,Electrical,22.61
-14,Outlet Fixture Ltd,Electrical,3.36
-15,Drill Nail Gun Group,Power Tools,267.8
-16,Drill Saw Inc,Power Tools,406.81
-17,Wire Fixture Ltd,Electrical,16.52
-18,Fixture Breaker and Sons,Electrical,34.6
-19,Breaker Outlet PLC,Electrical,22.77
-20,Wrench Tape Measure Group,Hand Tools,97.38
+product_id,product_name,category,price
+1,Wrench Pliers and Sons,Hand Tools,44.1
+2,Cement Insulation Group,Building Materials,253.6
+3,Saw Drill Inc,Power Tools,244.42
+4,Hammer Pliers Ltd,Hand Tools,95.26
+5,Connector Faucet and Sons,Plumbing,24.95
+6,Faucet Pipe and Sons,Plumbing,62.7
+7,Breaker Outlet LLC,Electrical,5.0
+8,Faucet Connector Ltd,Plumbing,20.88
+9,Breaker Switch and Sons,Electrical,20.43
+10,Breaker Wire Inc,Electrical,36.97
+11,Tape Measure Hammer Group,Hand Tools,84.69
+12,Fixture Switch Group,Electrical,46.82
+13,Fitting Valve PLC,Plumbing,20.12
+14,Outlet Wire LLC,Electrical,4.69
+15,Grinder Saw PLC,Power Tools,147.87
+16,Grinder Sander PLC,Power Tools,184.75
+17,Outlet Switch Inc,Electrical,19.78
+18,Sander Nail Gun and Sons,Power Tools,438.27
+19,Wrench Hammer and Sons,Hand Tools,54.3
+20,Saw Sander Group,Power Tools,380.88
