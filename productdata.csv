@@ -1,0 +1,21 @@
+product_id,product_name,category,price
+1,Wrench Pliers and Sons,Hand Tools,44.1
+2,Cement Insulation Group,Building Materials,253.6
+3,Saw Drill Inc,Power Tools,244.42
+4,Hammer Pliers Ltd,Hand Tools,95.26
+5,Connector Faucet and Sons,Plumbing,24.95
+6,Faucet Pipe and Sons,Plumbing,62.7
+7,Breaker Outlet LLC,Electrical,5.0
+8,Faucet Connector Ltd,Plumbing,20.88
+9,Breaker Switch and Sons,Electrical,20.43
+10,Breaker Wire Inc,Electrical,36.97
+11,Tape Measure Hammer Group,Hand Tools,84.69
+12,Fixture Switch Group,Electrical,46.82
+13,Fitting Valve PLC,Plumbing,20.12
+14,Outlet Wire LLC,Electrical,4.69
+15,Grinder Saw PLC,Power Tools,147.87
+16,Grinder Sander PLC,Power Tools,184.75
+17,Outlet Switch Inc,Electrical,19.78
+18,Sander Nail Gun and Sons,Power Tools,438.27
+19,Wrench Hammer and Sons,Hand Tools,54.3
+20,Saw Sander Group,Power Tools,380.88
