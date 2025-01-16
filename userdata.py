@@ -3,7 +3,7 @@ from faker import Faker
 import pandas as pd
 
 
-#Generating user ID's and signup datesn
+#Generating user ID's and signup dates
 num_users = 100
 user_ids = np.arange(1, num_users+1)
 
